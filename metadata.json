@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Product Suite - Enterprise Software Platform",
+  "description": "A high-converting product-based software company website showcasing flagship enterprise products, live product playground sandbox, real-time analytics, Gemini AI copilot studio, API documentation, and interactive pricing calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
